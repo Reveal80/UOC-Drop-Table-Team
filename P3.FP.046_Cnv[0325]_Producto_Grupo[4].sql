@@ -287,7 +287,7 @@ FROM users
 LIMIT 20;
 
 --
---B3. Variables de @usuario
+-- B3. Variables de @usuario
 -- 
 -- Pregunta P1.B3. Hacer una vista llamada cumpleanhos. La consulta de la vista, deberá tener los siguientes campos: userid, username, NombreResumido, VIP, dia, mes, birthdate.
 CREATE VIEW Cumpleanhos AS
